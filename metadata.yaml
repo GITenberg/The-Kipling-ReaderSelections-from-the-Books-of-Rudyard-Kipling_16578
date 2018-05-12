@@ -1,0 +1,43 @@
+_repo: The-Kipling-ReaderSelections-from-the-Books-of-Rudyard-Kipling_16578
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, R. (Rudyard)
+    - Kipling, Joseph Rudyard
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+description: ''
+gutenberg_issued: '2005-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16578'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Readers'
+- !lcsh 'English poetry'
+- !lcsh 'Animals -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Short stories, English'
+- !lcsh 'India -- Social life and customs -- Literary collections'
+tableOfContents: "Prose:\r\n'Rikki-Tikki-Tavi' -- William the Conqueror, Part I --\
+  \ William the Conqueror, Part II -- Wee Willie Winkie -- A matter of fact -- Mowgli's\
+  \ brothers -- The lost legion -- Namgay Doola -- A germ-destroyer -- 'Tiger! Tiger!'\
+  \ -- Tods' amendment -- The story of Muhammad Din -- The finances of the gods --\
+  \ Moti Guj, Mutineer.\r\n\r\nPoetry:\r\nThe native born -- The flowers -- Municipal\
+  \ -- The Coastwise Lights -- The English flag -- England's answer -- The Overland\
+  \ Mail -- In spring time."
+title: 'The Kipling Reader
+
+  Selections from the Books of Rudyard Kipling'
+url: http://www.gutenberg.org/ebooks/16578
